@@ -1,0 +1,22 @@
+final List<Map<String, String>> sampleDonors = [
+  {'name': 'John Doe', 'bloodGroup': 'O+', 'location': 'New York', 'phone': '1234567890'},
+  {'name': 'Jane Smith', 'bloodGroup': 'A+', 'location': 'Los Angeles', 'phone': '2345678901'},
+  {'name': 'Robert Johnson', 'bloodGroup': 'B-', 'location': 'Chicago', 'phone': '3456789012'},
+  {'name': 'Emily Davis', 'bloodGroup': 'O+', 'location': 'Houston', 'phone': '4567890123'},
+  {'name': 'Michael Wilson', 'bloodGroup': 'AB+', 'location': 'Phoenix', 'phone': '5678901234'},
+  {'name': 'Sarah Brown', 'bloodGroup': 'A-', 'location': 'Philadelphia', 'phone': '6789012345'},
+  {'name': 'David Miller', 'bloodGroup': 'B+', 'location': 'San Antonio', 'phone': '7890123456'},
+  {'name': 'Lisa Anderson', 'bloodGroup': 'O-', 'location': 'San Diego', 'phone': '8901234567'},
+  {'name': 'James Taylor', 'bloodGroup': 'AB-', 'location': 'Dallas', 'phone': '9012345678'},
+  {'name': 'Jennifer Martinez', 'bloodGroup': 'A+', 'location': 'San Jose', 'phone': '0123456789'},
+  {'name': 'William Thomas', 'bloodGroup': 'B+', 'location': 'New York', 'phone': '1234567890'},
+  {'name': 'Elizabeth Garcia', 'bloodGroup': 'O+', 'location': 'Los Angeles', 'phone': '2345678901'},
+  {'name': 'Richard Rodriguez', 'bloodGroup': 'AB+', 'location': 'Chicago', 'phone': '3456789012'},
+  {'name': 'Patricia Lee', 'bloodGroup': 'A-', 'location': 'Houston', 'phone': '4567890123'},
+  {'name': 'Joseph White', 'bloodGroup': 'B-', 'location': 'Phoenix', 'phone': '5678901234'},
+  {'name': 'Margaret Hall', 'bloodGroup': 'O-', 'location': 'Philadelphia', 'phone': '6789012345'},
+  {'name': 'Christopher Allen', 'bloodGroup': 'AB-', 'location': 'San Antonio', 'phone': '7890123456'},
+  {'name': 'Barbara Young', 'bloodGroup': 'A+', 'location': 'San Diego', 'phone': '8901234567'},
+  {'name': 'Daniel King', 'bloodGroup': 'B+', 'location': 'Dallas', 'phone': '9012345678'},
+  {'name': 'Michelle Scott', 'bloodGroup': 'O+', 'location': 'San Jose', 'phone': '0123456789'}
+]; 
