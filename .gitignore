@@ -1,0 +1,72 @@
+# Dart/Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IntelliJ/Android Studio specific
+.idea/
+*.iml
+
+# Android specific
+android/.gradle/
+android/app/build/
+
+# iOS/macOS specific
+ios/Flutter/.last_build_id
+ios/.symlinks/
+ios/Pods/
+macos/Pods/
+macos/build/
+
+# Web specific
+web/.dart_tool/
+web/build/
+
+# Windows/Linux specific
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Others
+*.log
+*.lock
+*.zip
+# Dart/Flutter specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IntelliJ/Android Studio specific
+.idea/
+*.iml
+
+# Android specific
+android/.gradle/
+android/app/build/
+
+# iOS/macOS specific
+ios/Flutter/.last_build_id
+ios/.symlinks/
+ios/Pods/
+macos/Pods/
+macos/build/
+
+# Web specific
+web/.dart_tool/
+web/build/
+
+# Windows/Linux specific
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/
+
+# Others
+*.log
+*.lock
+*.zip
